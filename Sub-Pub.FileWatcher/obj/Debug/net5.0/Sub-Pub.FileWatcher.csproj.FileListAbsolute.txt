@@ -1,0 +1,16 @@
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\bin\Debug\net5.0\Sub-Pub.FileWatcher.exe
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\bin\Debug\net5.0\Sub-Pub.FileWatcher.deps.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\bin\Debug\net5.0\Sub-Pub.FileWatcher.runtimeconfig.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\bin\Debug\net5.0\Sub-Pub.FileWatcher.runtimeconfig.dev.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\bin\Debug\net5.0\Sub-Pub.FileWatcher.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\bin\Debug\net5.0\ref\Sub-Pub.FileWatcher.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\bin\Debug\net5.0\Sub-Pub.FileWatcher.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\obj\Debug\net5.0\Sub-Pub.FileWatcher.csprojAssemblyReference.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\obj\Debug\net5.0\Sub-Pub.FileWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\obj\Debug\net5.0\Sub-Pub.FileWatcher.AssemblyInfoInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\obj\Debug\net5.0\Sub-Pub.FileWatcher.AssemblyInfo.cs
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\obj\Debug\net5.0\Sub-Pub.FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\obj\Debug\net5.0\Sub-Pub.FileWatcher.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\obj\Debug\net5.0\ref\Sub-Pub.FileWatcher.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\obj\Debug\net5.0\Sub-Pub.FileWatcher.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.FileWatcher\obj\Debug\net5.0\Sub-Pub.FileWatcher.genruntimeconfig.cache

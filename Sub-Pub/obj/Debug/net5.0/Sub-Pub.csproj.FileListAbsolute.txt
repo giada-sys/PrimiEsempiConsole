@@ -1,0 +1,16 @@
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\bin\Debug\net5.0\Sub-Pub.exe
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\bin\Debug\net5.0\Sub-Pub.deps.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\bin\Debug\net5.0\Sub-Pub.runtimeconfig.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\bin\Debug\net5.0\Sub-Pub.runtimeconfig.dev.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\bin\Debug\net5.0\Sub-Pub.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\bin\Debug\net5.0\ref\Sub-Pub.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\bin\Debug\net5.0\Sub-Pub.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\obj\Debug\net5.0\Sub-Pub.csprojAssemblyReference.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\obj\Debug\net5.0\Sub-Pub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\obj\Debug\net5.0\Sub-Pub.AssemblyInfoInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\obj\Debug\net5.0\Sub-Pub.AssemblyInfo.cs
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\obj\Debug\net5.0\Sub-Pub.csproj.CoreCompileInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\obj\Debug\net5.0\Sub-Pub.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\obj\Debug\net5.0\ref\Sub-Pub.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\obj\Debug\net5.0\Sub-Pub.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub\obj\Debug\net5.0\Sub-Pub.genruntimeconfig.cache
