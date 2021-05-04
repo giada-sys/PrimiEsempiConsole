@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Sub_Pub.FileWatcher
 {
-    public class GestioneEvento
+     class GestioneEvento
     {
         public static void HandleNewTextFile(object sender, FileSystemEventArgs e)
         {
