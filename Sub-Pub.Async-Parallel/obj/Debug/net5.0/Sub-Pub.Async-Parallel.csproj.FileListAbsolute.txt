@@ -1,0 +1,16 @@
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\bin\Debug\net5.0\Sub-Pub.Async-Parallel.exe
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\bin\Debug\net5.0\Sub-Pub.Async-Parallel.deps.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\bin\Debug\net5.0\Sub-Pub.Async-Parallel.runtimeconfig.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\bin\Debug\net5.0\Sub-Pub.Async-Parallel.runtimeconfig.dev.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\bin\Debug\net5.0\Sub-Pub.Async-Parallel.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\bin\Debug\net5.0\ref\Sub-Pub.Async-Parallel.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\bin\Debug\net5.0\Sub-Pub.Async-Parallel.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\obj\Debug\net5.0\Sub-Pub.Async-Parallel.csprojAssemblyReference.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\obj\Debug\net5.0\Sub-Pub.Async-Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\obj\Debug\net5.0\Sub-Pub.Async-Parallel.AssemblyInfoInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\obj\Debug\net5.0\Sub-Pub.Async-Parallel.AssemblyInfo.cs
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\obj\Debug\net5.0\Sub-Pub.Async-Parallel.csproj.CoreCompileInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\obj\Debug\net5.0\Sub-Pub.Async-Parallel.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\obj\Debug\net5.0\ref\Sub-Pub.Async-Parallel.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\obj\Debug\net5.0\Sub-Pub.Async-Parallel.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Async-Parallel\obj\Debug\net5.0\Sub-Pub.Async-Parallel.genruntimeconfig.cache

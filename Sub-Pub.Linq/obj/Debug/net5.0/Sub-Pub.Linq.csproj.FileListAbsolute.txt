@@ -1,0 +1,16 @@
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\bin\Debug\net5.0\Sub-Pub.Linq.exe
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\bin\Debug\net5.0\Sub-Pub.Linq.deps.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\bin\Debug\net5.0\Sub-Pub.Linq.runtimeconfig.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\bin\Debug\net5.0\Sub-Pub.Linq.runtimeconfig.dev.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\bin\Debug\net5.0\Sub-Pub.Linq.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\bin\Debug\net5.0\ref\Sub-Pub.Linq.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\bin\Debug\net5.0\Sub-Pub.Linq.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\obj\Debug\net5.0\Sub-Pub.Linq.csprojAssemblyReference.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\obj\Debug\net5.0\Sub-Pub.Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\obj\Debug\net5.0\Sub-Pub.Linq.AssemblyInfoInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\obj\Debug\net5.0\Sub-Pub.Linq.AssemblyInfo.cs
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\obj\Debug\net5.0\Sub-Pub.Linq.csproj.CoreCompileInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\obj\Debug\net5.0\Sub-Pub.Linq.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\obj\Debug\net5.0\ref\Sub-Pub.Linq.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\obj\Debug\net5.0\Sub-Pub.Linq.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Sub-Pub\Sub-Pub.Linq\obj\Debug\net5.0\Sub-Pub.Linq.genruntimeconfig.cache

@@ -30,7 +30,7 @@ namespace Sub_Pub.FileWatcher
             Console.WriteLine("Fine del contenuto");
 
             //Scrittura su file
-            using (StreamWriter writer = File.CreateText(@"C:\Users\giada.lomasti\Desktop\EsempioFileWatcher\ProvaScrittura.txt"))
+            using (StreamWriter writer = File.CreateText(@"C:\Users\giada.lomasti\Desktop\Esempio\ProvaScrittura.txt"))
             {
                 writer.WriteLine($"Prova");
                 writer.Close();

@@ -10,10 +10,10 @@ namespace Sub_Pub.FileWatcher
             FileSystemWatcher fsw = new FileSystemWatcher();
 
             //Specifico la directory dove voglio salvare il file
-            fsw.Path= @"C:\Users\giada.lomasti\Desktop\Esempio\";
+            fsw.Path= @"C:\Users\giada.lomasti\Desktop\Esempio";
 
             //Filtra i file che hanno estensione .txt
-            fsw.Filter = ".txt";
+            fsw.Filter = "*.txt";
 
             //Enum- filtro della notifica che si attiva quando
             //cambiano il nome oppure ...

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\giada.lomasti\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\giada.lomasti\\.nuget\\packages"
+    ]
+  }
+}
